@@ -13,3 +13,5 @@ github_username:  volny
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
